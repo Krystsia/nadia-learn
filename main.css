@@ -1,0 +1,16 @@
+body {
+    background: teal;
+    font-size: 24px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+}
+
+h1 {
+    width: 100%;
+    font-size: 54px;
+}
+
+
+
